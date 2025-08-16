@@ -7,7 +7,7 @@
     Title="TipCalculator">
 
     <ShellContent
-        Title="Home"
+        Title="Tip Calculator"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
